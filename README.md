@@ -5,7 +5,8 @@
 [![GitHub Watchers](https://img.shields.io/github/watchers/PolymerNinja/awesome-mobile-web-specialist.svg?label=GitHub%20Watchers)](https://github.com/PolymerNinja/awesome-mobile-web-specialist)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
 
-> A collection of resources for Google's Mobile Web Specialist certification.
+> A collection of resources for Google's Mobile Web Specialist certification.  
+> The Mobile Web Specialist Certification is offered at a limited-time introductory price of $99 USD.
 
 ## General resources
 
