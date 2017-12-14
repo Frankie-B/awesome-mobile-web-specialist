@@ -17,7 +17,8 @@
 - [Official Site](https://developers.google.com/training/certification/mobile-web-specialist/)
 - [Introducing](https://developers.googleblog.com/2017/09/introducing-mobile-web-specialist.html)
 - [Study Guide](https://developers.google.com/training/certification/mobile-web-specialist/StudyGuide-MobileWebSpecialist.pdf)
-- [Video](https://www.youtube.com/watch?v=MGgr62ZrfdU)
+- [Taking the Mobile Web Specialist Certification Exam](https://www.youtube.com/watch?v=095JjPMoD9w)
+- [Becoming a Certified Mobile Web Specialist](https://www.youtube.com/watch?v=MGgr62ZrfdU)
 
 ## Free Preparatory Courses
 
